@@ -1,3 +1,5 @@
 # nickTest
-Data Science sandbox
-A collection of my first R-based, data science projects.
+## Purpose
+* A collection of my first R-based, data science projects.
+* A Data Science sandbox
+* Practicing git collaboration
